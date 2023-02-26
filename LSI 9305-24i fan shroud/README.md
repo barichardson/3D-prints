@@ -8,6 +8,8 @@ The fan shroud is held in place with tabs that hook under the pci bracket and al
 
 This design will likely work with 9503-16i as well.
 
+Fusion 360 source file included.
+
 ![lsi_9305-24i_fan_shroud_1](https://user-images.githubusercontent.com/6842916/221388829-81121725-5718-4526-856d-34bf45d4dfc2.jpg)
 ![lsi_9305-24i_fan_shroud_2](https://user-images.githubusercontent.com/6842916/221388831-1edd33a1-ad7b-465a-bfbc-d6f30690afe0.jpg)
 
