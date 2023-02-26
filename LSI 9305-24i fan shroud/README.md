@@ -1,6 +1,6 @@
 # LSI 9305-24i fan shroud
 
-Fan shroud for LSI 9305-24i compatible with Noctua NF-A4x10 and NF-A4x20. NF-A4x20 is recommended if you have room since it will stick out an additional 10mm.  
+Fan shroud for LSI 9305-24i compatible with Noctua NF-A4x10 and NF-A4x20. NF-A4x20 is recommended if you have room but it will stick out an additional 10mm.
 
 The cutout for the fan is a tight fit to allow for installation without any fasteners.
 
