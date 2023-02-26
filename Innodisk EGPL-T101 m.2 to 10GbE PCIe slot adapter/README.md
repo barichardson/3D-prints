@@ -1,5 +1,7 @@
 # Innodisk EGPL-T101 m.2 to 10GbE PCIe slot adapter
 
+Fusion 360 source files included.
+
 # Print Settings
 - Sliced in Cura using tree supports for overhangs.
 - Rafts: Doesn't Matter
