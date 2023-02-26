@@ -5,6 +5,8 @@ Allows you to mount regular depth 80mm fans in the hot swap carrier mounts of th
 
 The side mounts are a tight fit and may need to be filed down slightly for a perfect fit.
 
+Fusion 360 source files included.
+
 # Print Settings
 - Printed with tree supports for the mounting brackets that overhang. Sliced with cura.
 - Rafts: Doesn't Matter
