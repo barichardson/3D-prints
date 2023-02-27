@@ -8,6 +8,7 @@ The side mounts are a tight fit and may need to be filed down slightly for a per
 Fusion 360 source files included.
 
 # Print Settings
+- Model dimensions and tolerances do not account for filament shrinkage since this varies for each material type and filament brand. Use the scaling feature in your slicer to tune for dimensional accuracy.
 - Printed with tree supports for the mounting brackets that overhang. Sliced with cura.
 - Rafts: Doesn't Matter
 - Supports: Yes
