@@ -14,6 +14,7 @@ Fusion 360 source file included.
 ![lsi_9305-24i_fan_shroud_2](https://user-images.githubusercontent.com/6842916/221388831-1edd33a1-ad7b-465a-bfbc-d6f30690afe0.jpg)
 
 # Print Settings
+- Model dimensions and tolerances do not account for filament shrinkage since this varies for each material type and filament brand. Use the scaling feature in your slicer to tune for dimensional accuracy.
 - I got the best results printing vertically with tree supports sliced with cura.
 - Rafts: Doesn't Matter
 - Supports: Yes (tree)
