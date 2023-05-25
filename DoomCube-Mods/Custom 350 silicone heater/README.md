@@ -8,3 +8,5 @@ Requirements:
 
 - Fusion 360 source files included.
 - [Doom-Cube Github](https://github.com/FrankenVoron/DoomCube-2)
+
+![350_silicone_bed](https://github.com/barichardson/3D-prints/assets/6842916/2056d37c-dcf4-4d5a-849f-cfd68e575429)
