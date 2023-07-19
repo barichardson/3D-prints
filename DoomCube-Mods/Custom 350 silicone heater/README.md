@@ -1,6 +1,6 @@
 # Custom 350 Silicone Bed Heater
 
-DXF file to order custom silicone buildplate heater from Keenovo for 350mm voron v2.4. This modification has full buildplate coverage and is designed for use with Mandala Roseworks outriggers moved to the outside edges of the buildplate.
+DXF file to order custom silicone buildplate heater from Keenovo for 350mm voron v2.4. This heater has full buildplate coverage and is designed for use with Mandala Roseworks outriggers moved to the outside edges of the buildplate.
 [Place custom heater order here](https://www.keenovo.com/design/flexible-heaters.html)
 
 Requirements:
