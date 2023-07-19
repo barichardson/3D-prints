@@ -10,3 +10,4 @@ Requirements:
 - [Doom-Cube Github](https://github.com/FrankenVoron/DoomCube-2)
 
 ![350_silicone_bed](https://github.com/barichardson/3D-prints/assets/6842916/2056d37c-dcf4-4d5a-849f-cfd68e575429)
+![PXL_20230714_214409555 MP](https://github.com/barichardson/3D-prints/assets/6842916/ab61d2c0-e1c4-4638-bfa0-e8f5c7f999b5)
