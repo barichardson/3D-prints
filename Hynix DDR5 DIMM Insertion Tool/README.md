@@ -6,7 +6,7 @@ Model based on the following part:
 Hynix DDR5 EC8 RDIMM
 P/N: HMCG78MEBRA174N AA
 
-If using a different DIMM part numnber insure that this tool does not interfere with any of the surface mount components.
+If using a different DIMM part number insure that this tool does not interfere with any of the surface mount components before use.
 
 Fusion 360 source file included.
 
